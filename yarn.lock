@@ -133,10 +133,10 @@
     fs-extra "^8.1.0"
     try-require "^1.2.1"
 
-"@openzeppelin/contracts@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-3.1.0.tgz#bcea457ef89069fbe5a617f50b25b6a8272895d5"
-  integrity sha512-dVXDnUKxrAKLzPdCRkz+N8qsVkK1XxJ6kk3zuI6zaQmcKxN7CkizoDP7lXxcs/Mi2I0mxceTRjJBqlzFffLJrQ==
+"@openzeppelin/contracts@^4.9.5":
+  version "4.9.5"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.5.tgz#1eed23d4844c861a1835b5d33507c1017fa98de8"
+  integrity sha512-ZK+W5mVhRppff9BE6YdR8CC52C8zAvsVAiWhEtQ5+oNxFE6h1WdeWo+FJSF8KKvtxxVYZ7MTP/5KoVpAU3aSWg==
 
 "@openzeppelin/test-helpers@^0.5.6":
   version "0.5.6"
